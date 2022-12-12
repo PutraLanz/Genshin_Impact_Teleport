@@ -18,7 +18,7 @@
 
 # All File Introducion
 
-[ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint/Animals) to find what you need.
+[ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
 
 > [Chinese\] [ManualCollectPoint(2022-10-13)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Chinese]ManualCollectPoint(2022-10-13)) is translated by JonasDai#5198
 
