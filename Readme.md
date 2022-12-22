@@ -21,7 +21,7 @@
 
 [ManualCollectPoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint) : Some Points are collected from Discord.You can see [here](#ManualCollectPoint) to find what you need.
 > **This is a manual recording of the coordinates by the player. More accurate, less empty coordinates. But not always complete.**
-
+>
 > [Chinese\] [ManualCollectPoint(2022-10-13)](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/ManualCollectPoint/[Chinese]ManualCollectPoint(2022-10-13)) is translated by JonasDai#5198
 
 [AutoGeneratePoint](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint) : All points are generated from data of unknown origin (You know what I mean.)
@@ -29,7 +29,7 @@
 >**These are the coordinates generated from the data. But contains one-off points, mission-generated points. More complete, but less accurate than manually collected coordinates and may have empty coordinates.**
 >
 >**Accuracy: plants = minerals > animals > monsters**
-
+>
 >**This includes almost all the points that exist, if there are no problems with the generation function.**
 >
 >**Supported language is descirbed in each folder's name.(if exists)**
