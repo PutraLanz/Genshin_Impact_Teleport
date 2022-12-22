@@ -185,7 +185,7 @@ Not coordinates. Some of the files needed are pictures etc.
 | 2022/10/11 | ![Aranara](OtherFile/img/icons/Aranara.png)兰那罗            | 76Aranara                 | Teyvat | Flowers#0948    | 76个兰那罗，这个不能全自动的奥，别搁这自动TP ，需要交材料 弹琴之类的，需要材料如下![76nanalaluo](OtherFile/img/AboutPoint/76nanalaluo.png) |
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru Desert - 100% | Sumeru_Desert_100 | Teyvat | zxcreepz#0001 | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru  - 100% | Sumeru_Region_-_100 | Teyvat | zxcreepz#0001 | Sumeru  100% region - all chests, sacred seals and dendroculus |
-| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru  - 100% | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043 |
+| 2022/12/22 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Liyue  - 1043 chest | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043 |
 
 # Data From
 
