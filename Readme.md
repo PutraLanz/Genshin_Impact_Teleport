@@ -61,7 +61,7 @@
 >
 >it cannot search for the name of the folder
 
-**method 1:**
+**method 2:**
 > Open the folder directly to view it. It's categorised for easier searching
 # Notice!!! Read it to Avoid risks!!!!!
 
