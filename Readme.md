@@ -54,11 +54,11 @@
 **method 1:**
 
 >Press "Ctrl+F" and do your search.
-
+>
 >Tips:search the text without "-" to improve accurancy.
-
+>
 >For example,search "sweet" or "flower" instead of "sweet-flower"
-
+>
 >it cannot search for the name of the folder
 
 **method 1:**
