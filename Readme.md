@@ -1,4 +1,4 @@
-**2022/10/27 Last Update**
+**2022/12/22 Last Update**
 # Disclaimer
 
 > **This tutorial provides in-game coordinates guidance for users of Asian, American and European platforms to help you experience the game more happily.**
