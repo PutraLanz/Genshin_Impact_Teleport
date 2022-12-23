@@ -47,6 +47,7 @@
 **If you are unable to download successfully, please download the separately compressed package file (release,On the right side), even though it may not be the latest**
 
 **If you use git,maybe you will meet** `Filename too long`.
+
 **only press** `git config --global core.longpaths true` **to solve it.**
 
 
