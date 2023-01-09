@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------------------
 如何使用:
-名字:  TeleportAll [版本][拾取范围-容错范围][Y轴偏移][语言]
+名字:  TeleportAll [版本][拾取范围][Y轴偏移][语言]
 
 注意：
 该自动生成为所有数据的合计 包括 任务生成点位、一次性点位、常驻点位 我不会判断点位性质所以无法选择仅常驻点位
@@ -8,7 +8,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 [Translate By Google]
 How to use:
-Folder Name: TeleportAll [version][AutoRange-fault_tolerant][y_aixs_offset][language]
+Folder Name: TeleportAll [version][AutoRange][y-aixs offset][language]
 
 Notice:
 The automatic generation is the total of all data, 
