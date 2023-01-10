@@ -177,7 +177,7 @@ Including pick range and destory range.
 
 Not coordinates. Some of the files needed are pictures etc.
 
-| AddTime    | Img                                                          | Name/ID                   | World  | Author/ID        | NOTE                                                         |
+| AddTime    | Name                                                          | Floder Name/ID                   | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | gouliangv2                | Teyvat | 傻逼#7734        | 自动拾取5米-P/S:作者ID确实叫这个，没有骂人的意思             |
 | 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | AutoArtifact              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
