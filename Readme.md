@@ -177,7 +177,7 @@ Including pick range and destory range.
 
 Not coordinates. Some of the files needed are pictures etc.
 
-| AddTime    | Img                                                          | Name/ID                   | World  | Author/ID        | NOTE                                                         |
+| AddTime    | Name                                                          | Floder Name/ID                   | World  | Author/ID        | NOTE                                                         |
 | ---------- | ------------------------------------------------------------ | ------------------------- | ------ | ---------------- | ------------------------------------------------------------ |
 | 2022/10/07 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | gouliangv2                | Teyvat | 傻逼#7734        | 自动拾取5米-P/S:作者ID确实叫这个，没有骂人的意思             |
 | 2022/10/12 | ![BuriedChest](OtherFile/img/icons/SearchPoint.png)artifact farm-圣遗物狗粮[dogfood] | AutoArtifact              | Teyvat | ShinaKaria#9760  | AB路线破圣遗物调查点上限(A127+B123), 自动拾取开3米,超出3M可能会因为拿到其他调查点 导致突破上限失败,A68~70为森林书后开放点位  须弥左上角那个,一共4个调查点 |
@@ -188,6 +188,9 @@ Not coordinates. Some of the files needed are pictures etc.
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru Desert - 100% | Sumeru_Desert_100 | Teyvat | zxcreepz#0001 | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru  - 100% | Sumeru_Region_-_100 | Teyvat | zxcreepz#0001 | Sumeru  100% region - all chests, sacred seals and dendroculus |
 | 2022/12/22 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Liyue  - 1043 chest | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043 |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)TheChasm100% | The Chasm 100% | Thechasm100% | serendipity#3437 | The Chasm 100% |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)The Chasm UndergroundMines 100% | TheChasmUndergroundMines 100% | The chasm | serendipity#3437 | The Chasm UndergroundMines 100% |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)生成宝箱(Generate Chest) | 宝箱 | ALL | lithtech#9980 | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
 
 # Data From
 
