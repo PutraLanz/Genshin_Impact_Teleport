@@ -21,4 +21,6 @@ If you have related requirements, you can consider manually deleting the points 
 更新:
 2023-01-18：
 修改了怪物坐标生成逻辑，排除了所有无掉落的怪物。虽然不能完全排除任务怪物和一次性怪物，但仍然提高了不少效率。
-
+[Translate By Deepl]
+Modified the monster coordinate generation logic to exclude all monsters with no drops. 
+It doesn't completely exclude quest monsters and one-off monsters, but it still improves efficiency quite a bit.
