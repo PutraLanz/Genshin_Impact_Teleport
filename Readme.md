@@ -188,6 +188,9 @@ Not coordinates. Some of the files needed are pictures etc.
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru Desert - 100% | Sumeru_Desert_100 | Teyvat | zxcreepz#0001 | Sumeru Desert - 100% region - all chests, sacred seals and dendroculus |
 | 2022/11/04 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Sumeru  - 100% | Sumeru_Region_-_100 | Teyvat | zxcreepz#0001 | Sumeru  100% region - all chests, sacred seals and dendroculus |
 | 2022/12/22 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)Liyue  - 1043 chest | Liyue Chests Json 1043 | Teyvat | ꧁༺ꜱɑ¡ζɑლɑ༻꧂#1264 | all Liyue chest.num:1043 |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)TheChasm100% | TheChasm100% | The chasm | serendipity#3437 | The Chasm 100% |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)TheChasmUndergroundMines100% | The Chasm UndergroundMines 100% | The chasm | serendipity#3437 | The Chasm UndergroundMines 100% |
+| 2023/01/10 | ![WorldQuests](OtherFile/img/icons/WorldQuests.png)宝箱(Chest) | Generate Chest | ALL | lithtech#9980 | Only the treasure chest location JSON exists, no starting point for solving the treasure chest in the puzzle category |
 
 # Data From
 
