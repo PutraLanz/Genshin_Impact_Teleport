@@ -1,6 +1,5 @@
 
 **Language:**[中文](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]/Readme.md)|[English](https://github.com/Sam5440/Genshin_Impact_Teleport/tree/main/AutoGeneratePoint/Points(SortByItemKind)[ver3.4][cn-en][2023-01-18]/Readme_en.md)
-
 # [This document was translated by DeepL]
 # About Test
 >**[v3.4]:Using the old optimization scheme Only the no-drop monsters have been optimized**
