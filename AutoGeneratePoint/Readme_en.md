@@ -17,9 +17,7 @@
 >
 >>**example：①Teleport ALL[v3.4][AL-15M][YO-1M][2023-01-18][CN]**
 >>
->>**TeleportAll(SortByItemKind)** 
->>
->>**3.4 data version/Optimised based on 15M range efficiency/Updated January 18, 2023/Chinese**
+>>**Teleport ALL /3.4 data version/Optimised based on 15M range efficiency/Updated January 18, 2023/Chinese**
 
 # About Oculus
 >**All Oculus do not remove points, so you do not need to turn on Auto Range to suck up Oculus**
