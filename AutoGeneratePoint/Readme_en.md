@@ -17,9 +17,7 @@
 >
 >>**example：①Teleport ALL[v3.4][AL-15M][YO-1M][2023-01-18][CN]**
 >>
->>**TeleportAll(SortByItemKind)** 
->>
->>**3.4 data version/Optimised based on 15M range efficiency/Updated January 18, 2023/Chinese**
+>>**Teleport ALL /3.4 data version/Optimised based on 15M range efficiency/Updated January 18, 2023/Chinese**
 
 # About Oculus
 >**All Oculus do not remove points, so you do not need to turn on Auto Range to suck up Oculus**
@@ -27,3 +25,6 @@
 >**2023-01-18：
 Modified the monster coordinate generation logic to exclude all monsters with no drops. 
 It doesn't completely exclude quest monsters and one-off monsters, but it still improves efficiency quite a bit.。**
+# Update
+>**2023-01-18:
+Modified the monster coordinate generation logic to exclude all monsters with no drops. It doesn't completely exclude quest monsters and one-off monsters, but it still improves efficiency quite a bit.Added a new generation logic that effectively excludes non-refreshable spots, but a few spots remain, such as refreshable treasure chest town guardian monsters.**
