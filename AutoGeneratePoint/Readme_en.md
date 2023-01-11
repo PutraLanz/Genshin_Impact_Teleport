@@ -25,3 +25,7 @@
 >**2023-01-18：
 Modified the monster coordinate generation logic to exclude all monsters with no drops. 
 It doesn't completely exclude quest monsters and one-off monsters, but it still improves efficiency quite a bit.。**
+# Update
+>**2023-01-18.
+Modified the monster coordinate generation logic to exclude all monsters with no drops. It doesn't completely exclude quest monsters and one-off monsters, but it still improves efficiency quite a bit.
+Added a new generation logic that effectively excludes non-refreshable spots, but a few spots remain, such as refreshable treasure chest town guardian monsters. **
